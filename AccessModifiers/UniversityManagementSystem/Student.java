@@ -44,25 +44,3 @@ public class Student {
         System.out.println("CGPA: " + CGPA);
     }
 }
-
-// Subclass
-class PostgraduateStudent extends Student {
-
-    private String specialization;
-
-    // Constructor
-    public PostgraduateStudent(int rollNumber, String name, double CGPA, String specialization) {
-        super(rollNumber, name, CGPA);
-        this.specialization = specialization;
-    }
-
-    // Method to display postgraduate student details
-    public void displayPostgraduateDetails() {
-        // Accessing protected member `name`
-        System.out.println("Postgraduate Student Details:");
-        System.out.println("Roll Number: " + rollNumber);
-        System.out.println("Name: " + name); // Accessing protected field from parent class
-        System.out.println("Specialization: " + specialization);
-        System.out.println("CGPA: " + getCGPA()); // Accessing private field through public method
-    }
-}
