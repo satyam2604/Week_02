@@ -31,7 +31,7 @@ class Circle {
 
     // create a default constructor
     public Circle() {
-        radius = 0.5;
+        this(0.5); // constructor chaining
     }
 
     // create a parameterized constructor
