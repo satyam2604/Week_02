@@ -20,7 +20,7 @@ public class Employee {
     }
     // call a method to display all Employee details
     public void displayEmployeeDetails(){
-        if(this instance of Employee){
+        if(this instanceof Employee){
         System.out.println("Company name: "+ companyName);
         System.out.println("Name: "+ name);
         System.out.println("ID: "+ id);
