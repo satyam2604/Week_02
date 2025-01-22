@@ -1,4 +1,4 @@
-package Week_02.Day_04.SelfProblems.UniversitywithFacultiesAndDepartments;
+package week_02.Day_04.SelfProblems.UniversitywithFacultiesAndDepartments;
 
 public class Faculty {
     private String facultyName; // faculty name

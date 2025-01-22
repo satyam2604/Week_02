@@ -1,6 +1,5 @@
-package Week_02.Day_04.ObjectModeling.LibraryAndBooks;
-import java.util.ArrayList;
-import java.util.List;
+package week_02.Day_04.ObjectModeling.LibraryAndBooks;
+
 public class Book {
     // fields
     private String title; // instance variable

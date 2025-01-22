@@ -1,7 +1,4 @@
-package Week_02.Day_04.SelfProblems.HospitalDoctorAndPatient;
-
-import java.util.ArrayList;
-import java.util.List;
+package week_02.Day_04.SelfProblems.HospitalDoctorAndPatient;
 
 // Patient Class
 public class Patient {

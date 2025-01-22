@@ -1,4 +1,4 @@
-package Week_02.Day_04.ObjectModeling.BankAndAccountHolders;
+package week_02.Day_04.ObjectModeling.BankAndAccountHolders;
 
 public class BankManagement {
     public static void main(String[] args) {

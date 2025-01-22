@@ -1,4 +1,4 @@
-package Week_02.Day_04.ObjectModeling.CompanyDepartments;
+package week_02.Day_04.ObjectModeling.CompanyDepartments;
 
 public class Employee {
     private String name; // employee name

@@ -1,4 +1,4 @@
-package Week_02.Day_04.SelfProblems.SchoolAndStudents;
+package week_02.Day_04.SelfProblems.SchoolAndStudents;
 
 public class SchoolManagement {
     public static void main(String[] args) {

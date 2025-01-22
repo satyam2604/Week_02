@@ -1,4 +1,4 @@
-package Week_02.Day_04.ObjectModeling.BankAndAccountHolders;
+package week_02.Day_04.ObjectModeling.BankAndAccountHolders;
 
 import java.util.ArrayList;
 import java.util.List;
