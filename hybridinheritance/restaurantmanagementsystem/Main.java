@@ -5,7 +5,7 @@ public class Main {
         // create instance of person and worker with help of chef and waiter to extend its features
         Chef chef = new Chef("Peter", 30);
         Waiter waiter = new Waiter("Shaun", 35);
-        
+
         // call methods to display duties they perform
         chef.performDuties();
         waiter.performDuties();
