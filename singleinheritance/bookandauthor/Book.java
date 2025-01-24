@@ -1,4 +1,4 @@
-package Week_02.Day_05.singleinheritance;
+package Week_02.Day_05.singleinheritance.bookandauthor;
 
 public class Book {
     // attributes of BOOK class

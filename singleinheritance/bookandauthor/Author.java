@@ -1,4 +1,4 @@
-package Week_02.Day_05.singleinheritance;
+package Week_02.Day_05.singleinheritance.bookandauthor;
 
 public class Author extends Book {
     // extend attributes of book class author with extra attributes in author class
