@@ -9,5 +9,9 @@ public class Vehicle {
         this.maxSpeed = maxSpeed;
         this.fuelType = fuelType;
     }
-
+    // method to display information of Vehicle
+    public void displayInfo(){
+        System.out.println("Max Speed: "+ maxSpeed);
+        System.out.println("Fuel Type: "+ fuelType);
+    }
 }
