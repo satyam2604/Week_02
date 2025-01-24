@@ -14,7 +14,7 @@ public class Main {
         cat.displayDetails();
         cat.makeSound();
         System.out.println();
-        cat.displayDetails();
-        cat.makeSound();
+        bird.displayDetails();
+        bird.makeSound();
     }
 }
